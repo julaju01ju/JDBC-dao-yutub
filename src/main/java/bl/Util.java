@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 /**
- * Created by vserdiuk on 2/4/17.
+ 
  */
 public class Util {
 
